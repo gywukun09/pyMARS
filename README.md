@@ -49,3 +49,5 @@ If you use this package as part of a scholarly publication, please cite the foll
 In order to have a more open and welcoming community, pyMARS adheres to a code of conduct adapted from the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 Please adhere to this code of conduct in any interactions you have in the pyMARS community. It is strictly enforced on all official PyKED repositories, websites, and resources. If you encounter someone violating these terms, please let the project lead (@kyleniemeyer) know via email at <kyle.niemeyer@gmail.com>) know and we will address it as soon as possible.
+
+## Test by kun 
